@@ -1,4 +1,5 @@
-{ "name": "n8n-on-render",
+{ 
+  "name": "n8n-on-render",
 
 "private": true,
 
@@ -8,4 +9,5 @@
 
 "scripts": {"start": "n8n start" },
 
-"dependencies": { "n8n": "^1.0.0"))
+"dependencies": { "n8n": "^1.0.0"}
+}
